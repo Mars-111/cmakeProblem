@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc liboperations_lib.a CMakeFiles/operations_lib.dir/operations.cpp.obj
+C:\mingw64\bin\ranlib.exe liboperations_lib.a

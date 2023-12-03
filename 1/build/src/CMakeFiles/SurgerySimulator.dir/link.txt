@@ -1,0 +1,3 @@
+C:\CMake\cmake-3.28.0-rc5-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\SurgerySimulator.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\SurgerySimulator.dir/objects.a @CMakeFiles\SurgerySimulator.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SurgerySimulator.dir/objects.a -Wl,--no-whole-archive -o SurgerySimulator.exe -Wl,--out-implib,libSurgerySimulator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SurgerySimulator.dir\linkLibs.rsp

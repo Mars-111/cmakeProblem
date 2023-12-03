@@ -1,0 +1,8 @@
+C:/develop/C++/C++/25.4/1/build/CMakeFiles/edit_cache.dir
+C:/develop/C++/C++/25.4/1/build/CMakeFiles/rebuild_cache.dir
+C:/develop/C++/C++/25.4/1/build/src/CMakeFiles/SurgerySimulator.dir
+C:/develop/C++/C++/25.4/1/build/src/CMakeFiles/edit_cache.dir
+C:/develop/C++/C++/25.4/1/build/src/CMakeFiles/rebuild_cache.dir
+C:/develop/C++/C++/25.4/1/build/lib/CMakeFiles/operations_lib.dir
+C:/develop/C++/C++/25.4/1/build/lib/CMakeFiles/edit_cache.dir
+C:/develop/C++/C++/25.4/1/build/lib/CMakeFiles/rebuild_cache.dir
