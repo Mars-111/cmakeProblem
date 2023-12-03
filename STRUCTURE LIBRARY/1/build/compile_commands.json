@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/develop/C++/C++/25.4/1/build/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SurgerySimulator.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\SurgerySimulator.dir\\main.cpp.obj -c C:\\develop\\C++\\C++\\25.4\\1\\src\\main.cpp",
+  "file": "C:/develop/C++/C++/25.4/1/src/main.cpp",
+  "output": "src/CMakeFiles/SurgerySimulator.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/develop/C++/C++/25.4/1/build/lib",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\operations_lib.dir\\operations.cpp.obj -c C:\\develop\\C++\\C++\\25.4\\1\\lib\\operations.cpp",
+  "file": "C:/develop/C++/C++/25.4/1/lib/operations.cpp",
+  "output": "lib/CMakeFiles/operations_lib.dir/operations.cpp.obj"
+}
+]
